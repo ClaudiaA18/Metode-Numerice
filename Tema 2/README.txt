@@ -37,16 +37,13 @@ Interpolare Proximala:
 Referinte web
 
 1. https://graphicdesign.stackexchange.com/questions/26385/difference-between-none-linear-cubic-and-sinclanczos3-interpolation-in-
-2. https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-reference/
-top/volume-2-image-processing/ipp-ref-interpolation-in-image-geometry-transform/
-lanczos-interpolation.html
+2. https://software.intel.com/content/www/us/en/develop/documentation/ipp-dev-reference/top/volume-2-image-processing/ipp-ref-interpolation-in-image-geometry-transform/lanczos-interpolation.html
 3. https://en.wikipedia.org/wiki/Lanczos_algorithm
 4. https://theailearner.com/2018/12/29/image-processing-bicubic-interpolation/
 5. https://en.wikipedia.org/wiki/Lanczos_resampling
 6. https://stackoverflow.com/questions/34198553/lanczos-interpolation-in-c
 7. https://www.mathworks.com/help/visionhdl/ug/image-downsize.html
-8. http://cmbbe2018.tecnico.ulisboa.pt/pen_cmbbe2018/pdf/WEB_PAPERS/CMBBE2018_
-paper_28.pdf
+8. http://cmbbe2018.tecnico.ulisboa.pt/pen_cmbbe2018/pdf/WEB_PAPERS/CMBBE2018_paper_28.pdf
 9. https://www.scss.tcd.ie/~koidlk/cs4062/ExampleKNN.pdf
 10.https://web.stanford.edu/~boyd/papers/prox_algs/index.html
 11.https://epfl-lts2.github.io/unlocbox-html/doc/prox/prox_l1_code.html
